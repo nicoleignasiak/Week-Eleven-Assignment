@@ -1,5 +1,5 @@
 # Basic Structure for a Random Walk simulation
-# Dan Neumann
+# Nicole Ignasiak
 '''
 
 You flip a coin.
